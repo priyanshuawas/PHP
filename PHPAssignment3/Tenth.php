@@ -7,3 +7,4 @@ Up above the world so high,/n
 Like a diamond in the sky.";
 
 echo var_dump(explode("/n", $str));
+    
