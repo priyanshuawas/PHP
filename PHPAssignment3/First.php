@@ -10,4 +10,4 @@ echo strtolower("PHP By Akash SIR ");
 echo "<br>";
 echo ucfirst("Hello GLA UNIVERSITY ");
 echo "<br>";
-echo lcfirst("HELLO   ");
+echo lcfirst("HELLO");

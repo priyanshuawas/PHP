@@ -3,4 +3,4 @@
 //Sample String:ak@creation.com
 //Expected :'com'
 
-echo substr('ak@creation.com', -3, 3);
+echo substr('ak@creation.com', -4, 9);

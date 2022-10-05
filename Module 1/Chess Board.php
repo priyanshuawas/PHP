@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <body>
 <table width="400px" border="1px" cellspacing="0px">
     <?php
@@ -10,7 +9,6 @@
     for($col = 0; $col < 8; $col++) {
         echo "<tr>";
         $value = $col;
-
         for($row = 0; $row < 8; $row++) {
             if($value%2 == 0) {
                 echo

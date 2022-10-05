@@ -5,4 +5,4 @@
 //Note : Password length may be 6, 7, 8 etc.
 
 $str = '1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcefghijklmnopqrstuvwxy';
-echo substr(str_shuffle($str), 0, 5);
+echo substr(str_shuffle($str), 0, 10);
